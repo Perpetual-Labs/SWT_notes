@@ -1,0 +1,1 @@
+https://graphdb.ontotext.com/documentation/free/introduction-to-semantic-web.html#:~:text=The%20Semantic%20Web%20represents%20a,be%20processed%20automatically%20by%20machines.

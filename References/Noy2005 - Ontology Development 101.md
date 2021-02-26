@@ -1,0 +1,1 @@
+https://protege.stanford.edu/conference/2005/slides/T1_Noy_Ontology101.pdf
