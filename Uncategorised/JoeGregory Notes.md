@@ -413,9 +413,6 @@ Modelling and SImulation
  - Autodesk Toronto - working on ontology for Modelling and SImulation
  - Barry to provide name of contact
 
-JPL
-- creating a silo (Barry's view)
-- Steve Jenkins not that willing to involve others
 
 
 
