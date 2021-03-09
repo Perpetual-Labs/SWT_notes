@@ -518,3 +518,7 @@ ESA Space System Ontology Workshop Presentations
 
 1. Space System Ontology - Wlecome
 
+
+![[ISO 42010 - Conceptual Model of an Architecture Description.jpg]]
+Add note on architectures (i.e. viewpoints, etc.) in MBSE Package
+
