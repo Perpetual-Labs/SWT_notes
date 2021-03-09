@@ -46,6 +46,7 @@ e.g. the [[Gene Ontology]]
 
 
 
-Reference [[SERC2019 - Transforming systems engineering through digital engineering]]
-Reference [[Youtube - IOF. An ontology framework for the manufacturing industry]]
+References:
+[[SERC2019 - Transforming systems engineering through digital engineering]]
+[[Youtube - IOF. An ontology framework for the manufacturing industry]]
 

@@ -284,7 +284,7 @@ Readi (academic-indudtry tool? Focusses on requirements. Look this up)
 Academic network re: requirements - 
 INTOCPS
 
-![[Pasted image 20210222112837.png]]
+![[IOF Systems Engineering Roadmap.png]]
 
 Links to - and descriptions of:
 ISO 15288
