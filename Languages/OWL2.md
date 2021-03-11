@@ -13,7 +13,7 @@ In this the focus is mainly on OWL 2 DL
 
 # OWL 2 DL Overview
 The [[Description Logics]] subset of [[OWL]]
- - carefully chosen to balance expressivitiy (i.e. richer [[Semantics]]) with computational complexity of [[Reasoners|reasoning]]
+ - carefully chosen to balance expressivitiy (i.e. richer [[Semantics]]) with computational complexity of [[Reasoning]]
  - In particular, practical reasoning algorithms exist that are both:
 	- sound: all inferences drawn are valid
 	- complete: all valid inferences are drawn
@@ -24,7 +24,7 @@ The [[Description Logics]] subset of [[OWL]]
 
 # OWL 2 DL Details
  - see [[OWL 2 DL Details]]
-
+ - see [[W3C - OWL 2 Primer]]
 
 References:
 [[Jenkins - ST4SE]]

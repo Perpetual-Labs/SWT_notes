@@ -7,6 +7,7 @@ Founded:
  - [[OBO Foundry]]
  - [[IOF]]
 
+
 Based at [[University of Buffalo]]
 Contributes to: [[CUBRC]]
 Director of: [[NCOR]]
@@ -14,5 +15,6 @@ Consultant to [[ST4SE]]
 
 
 
-Reference [[Youtube - Ontology for SE Part 1. Introduction to Ontology]]
-Reference [[Youtube - IOF. An ontology framework for the manufacturing industry]]
+References:
+[[Youtube - Ontology for SE Part 1. Introduction to Ontology]]
+[[Youtube - IOF. An ontology framework for the manufacturing industry]]

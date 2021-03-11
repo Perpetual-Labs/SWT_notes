@@ -2,7 +2,7 @@
  - formed by datasets together with formal ontologies that define the semantic relationship between the data.
  - a system for storage, querying, and management of structured data with respect to ontologies.
  - At present, there is no single well-established term for such engines weak synonyms are:
-	 - [[Reasoners]]
+	 - [[Reasoning]]
 	 - [[Ontology]] server
 	 - Metastore
 	 - Semantic/triple/[[RDF]] store

@@ -1,7 +1,7 @@
 Aim:
 To provide information in a structured way to enable it to be processed automatically by machines
 
-1. Combine structured data and inferencing (by [[Reasoners]]) to yield info not explicitly stated
+1. Combine structured data and inferencing (by [[Reasoning]]) to yield info not explicitly stated
 2. Deal with problems of non-semantic (e.g. [[HTML]]-based) Web
 	e.g. Contemporary search engines are fast but don't produce relevant data
 	

@@ -1,0 +1,1 @@
+![[ISO 42010 - Conceptual Model of an Architecture Description.jpg]]

@@ -1,6 +1,6 @@
 Infer results from data given, if the data is provided in a [[Semantics|semantic]] way
 
-Acts as a compiler - compile the model to generate results
+Reasoners act as a compiler - compile the model to generate results
 
 In particular, practical reasoning algorithms exist that are both:		
 	sound: all inferences drawn are valid	
@@ -18,4 +18,12 @@ Reasoners provide the ability to ask questions about information, e.g.
 - What requirements refine R.12345?
 - Does every component have a supplier?
 
-Reference [[Jenkins - ST4SE]]
+## Languages:
+[[OWL]] already has a lot of reasoning power
+[[SWRL]] can generate more data
+SHAQL mostly used for checking constraints
+You can combine them
+
+
+References
+[[Jenkins - ST4SE]]

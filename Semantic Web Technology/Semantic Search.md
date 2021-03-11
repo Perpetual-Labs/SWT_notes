@@ -1,7 +1,7 @@
 Part of [[Semantic Web]]
 Applies to e.g. [[Linked Data]], [[Linked Open Data (LOD)]]
 
-Involves querying using [[Reasoners]]
+Involves querying using [[Reasoning]]
 
 Uses languages like [[SPARQL]]
 

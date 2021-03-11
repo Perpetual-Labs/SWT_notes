@@ -1,0 +1,1 @@
+https://www.researchgate.net/publication/340208944_Systems_Engineering_Approach_to_Identify_Requirements_for_Digital_Twins_Development

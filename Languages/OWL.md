@@ -9,12 +9,12 @@
  - It is the most widely used [[Knowledge Representation]] (KR) language in the world
 - by a wide margin
 - it is considered the accepted language
-- It provides full [[Description Logics]] semantics (and beyond) and has powerful yet tractable reasoning [[Semantics]] - see [[Reasoners]]
+- It provides full [[Description Logics]] semantics (and beyond) and has powerful yet tractable reasoning [[Semantics]] - see [[Reasoning]]
 - Used to define logical rules, e.g. LivingPeople and DeadPeople are disjunct classes - DeadPeople have the property DeathDate
 - OWL provides a set of facilities to define domain-specific [[Ontology|ontologies]] in the context of the [[Semantic Web]]
 - OWL Ontologies can be exchanged as RDF documents
 
-# Main Concepts
+## Main Concepts
  - [[Classes]]: define concepts and domains
  - [[Properties]] which are of two types:
 		- Object properties: defined relationships between resources (URI)
@@ -23,22 +23,28 @@
 - [[Constraints]] and [[Relations]] allow definition of cardinality restrictions as well as existential and universal quantifications
 
 
-# Dialects
+## Dialects
  - Multiple dialects available (e.g. [[OWL2]], OWL Lite) - see [[Blog2020 - Introduction to the Semantic Web]] for further info
  - OWL Lite (subsetOf) OWL DL (subsetOf) OWL Full
 
-# Similar Languages
+## Similar Languages
  - [[RDFS]] is on the same level as [[OWL]]
  - Describes classes (as opposed to level below, [[RDF]], which defines instances)
 
-# Examples:
+
+## UML to OWL and SROIQ
+Mapping, translation information provided in:
+[[Harmse - UML Class Diagram to OWL and SROIQ Reference]]
+
+
+## Examples:
 ![[Example Ontology 1.png]]
 
 ![[Example Ontology 2.png]]
 
 
 
-# References:
+## References:
 [[Jenkins - ST4SE]]
 [[Youtube - Ontology for SE Part 1. Introduction to Ontology]]
 [[Youtube - Semantic Web Technologies (L5)]]

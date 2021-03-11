@@ -17,7 +17,7 @@ Languages involved:
 Tools involved:
  - [[Rosetta]]
  - [[Eclipse]]
- - [[Reasoners]] implement the [[SPARQL]] language
+ - [[Reasoning|Reasoners]] implement the [[SPARQL]] language
 
 
 Reference: [[JPL2019 - OpenCAESAR Initiative]]

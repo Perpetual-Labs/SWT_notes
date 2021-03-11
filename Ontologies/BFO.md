@@ -1,38 +1,66 @@
 # Basic Formal Ontology:
 developed by [[Barry Smith]]
 Relatively simple ontology
+Similar level to [[DOLCE]], [[EMMO]]
 
 ![[BFO.jpg]]
 ![[BFO Top Layer.png]]
 ![[Independent Continuant Examples.png]]
 ![[Occurent Examples.png]]
 
-# BFO Development:
+## BFO Development:
  - This was developed from the [[Gene Ontology]]
  - The top three classes were inherited from GO and generalised
  - It has been applied succesfully in the [[OBO Foundry]]
- - It is being rolled out with the [[IOF]]
+ - It is being rolled out with the [[IOF]], chosen by [[NIST]]
+ - BFO tries to build on scientific terminology, rather than cultural terminology (like [[DOLCE]])
 
-# Future-Proof:
+## Future-Proof:
 To future-proof an ontology:
  - rise up to a higher level of generality
  - e.g. like gene ontology - defined chemistry, not just human-specific stuff
  - then can be applied to all species
 
-# Rules for Use:
+## Rules for Use:
  - see [[Ontology Rules]]
 
-# Users of BFO:
+## Users of BFO:
  - ~300 ontologies use the BFO
  - [[NIST]] are big users
  - [[Barry Smith]] wants [[ST4SE]] to use BFO
  - https://basic-formal-ontology.org/users
  - in biology this has been used extensively and succesfully, see [[Smith2017 - Engineering Ontology Landscape]]
 
+## Example of BFO and Domain
+![[Jinzhi2020 - Knowledge graph modeling for decision-makings in the manufacturing systems.jpg]]
+Reference: [[Jinzhi2020 - Towards Actionable Cognitive Digital Twins for Manufacturing]]
+
+e.g. Aerospace is a domain of application for BFO
+
+## BFO-2020 (BFO 2.1)
+From 'What problem with OWL is BFO-2020 trying to solve'
+[[Youtube2020 - What problem with OWL is BFO-2020 trying to solve]]
+
+ - Problem with OWL treatment of relations
+ - OWL does only binary relations - not ternary (i.e. composed of three parts)
+ - so, no good for machines, wihich have parts that can be replaced.
+ - e.g. saying 'Machine A has Part B' not the best way of doing it.
+ - i.e. Part B might be replaced. So need a temporalised index of parts.
+
+ - BFO 2 allowed people to use ternary as though binary - didn't solve problem
+ - BFO 2.1 = BFO 2020
+ - BFO 2.1 changes the way relations are treated
+
+ - This problem arises between continuants and transitive properties (e.g. has-Part)
+ - This is an issue when the parts change over time
+ - so at instance level, it assumes the parts don't change
+
+Very specific problem, can come back to if necessary
 
 
 
-# Details - Terms:
+
+## Details - Terms:
 
 Top-level breakdown:
  - Continuant:
@@ -125,3 +153,4 @@ References:
 [[Youtube - Ontology for SE Part 2. Suites of Ontology Modules]]
 [[Youtube - Ontology for SE Part 3. Functions and Capabilities]]
 [[Youtube - Ontology for SE Part 4. Product Life Cycle]]
+[[Youtube2019 - Ontology as Product-Service System A Study of GO, BFO and DOLCE]]

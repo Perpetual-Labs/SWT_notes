@@ -1,0 +1,3 @@
+ - Interoperability WG
+	 - ensures the [[IOF]] WGs work together
+	 - key is that they all use [[BFO]]

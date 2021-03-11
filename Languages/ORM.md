@@ -1,6 +1,8 @@
 Object-Role Modeling
 European equivalent of OML
 
+Fact-based modelling
+
 A conceptual language that has an expressive family of constraints, rich graphical notationm and very close to natural language.
 In comparison to [[OWL]], it is much easier to learn and use, especially for non-IT people
 

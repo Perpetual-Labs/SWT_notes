@@ -1,0 +1,1 @@
+https://www.researchgate.net/publication/342701907_Towards_Actionable_Cognitive_Digital_Twins_for_Manufacturing

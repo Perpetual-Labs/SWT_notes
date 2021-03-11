@@ -52,3 +52,4 @@ Example of relevant work in MBSE:
 
 References:
 [[Jenkins - ST4SE]]
+[[Standard - ISO,IEC,IEEE 15288 - System Life Cycle Processes]]

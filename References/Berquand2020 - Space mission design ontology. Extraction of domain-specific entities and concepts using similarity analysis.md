@@ -1,0 +1,1 @@
+https://strathprints.strath.ac.uk/71173/1/Berquand_etal_SciTech2020_Space_mission_design_ontology_extraction_of_domain_specific_entities_and_concepts.pdf

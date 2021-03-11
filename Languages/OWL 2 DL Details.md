@@ -1,4 +1,6 @@
 # Usage Details
+See [[W3C - OWL 2 Primer]]
+
 Subset of [[OWL2]]
 SHROIQ(D)
 

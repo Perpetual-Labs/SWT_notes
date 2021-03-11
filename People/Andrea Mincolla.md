@@ -7,3 +7,8 @@ Interested in:
  - performs analyses - execute models to check consistency, etc.
  - queries and human-readable views of models
 
+
+Produced [[Semantics|semantic]] layer on top of standards.
+i.e. between ECSS standards and an actual [[ontology]]
+
+Worked with [[Sam Gerene]] at [[Rhea]]

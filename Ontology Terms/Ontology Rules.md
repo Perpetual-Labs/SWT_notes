@@ -18,6 +18,8 @@
  - Avoid circularity
  - Make consistent with other ontologies (and e.g. dictionaries) to support computational enhancement of data - reduces need for mapping
  - Avoid 'Multiple Inheritance' (below), especially in reference ontologies - Do Diagram 2, not Diagram 1 (Single Inheritance only):
+ - TBox - cannot have multiple inheritcance
+    ABox - can have multiple inheritance
  - i.e. Terms should have at most one parent (this goes back to Aristotle)
 
 ![[Multiple Inheritance.jpg]]

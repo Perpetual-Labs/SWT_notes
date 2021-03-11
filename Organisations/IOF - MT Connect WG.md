@@ -1,0 +1,3 @@
+ - MTConnect [[IOF]] WG
+	 - sensor data in factories
+	 - maybe relevant to cars, spacecraft, etc.

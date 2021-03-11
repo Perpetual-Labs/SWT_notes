@@ -16,6 +16,8 @@ Need methodologies of ontology deisgn
  - to produce distributed development of ontologies
  - Involves: scheduling, control and QA
 
+Ontology engineering: the set of activities that concern the ontology development process, the ontology life cycle, the methods and methodologies for building ontologies, and the tool suites and languages that support them
+
 ## Steps:
 1. Pre-development
 	1.	Environment study (software and applications)
@@ -60,3 +62,4 @@ References:
 [[Youtube - Semantic Web Technologies (L6)]]
 [[Rajpathak2011 - A generic ontology development framework for data integration and decision support in a distributed environment]]
 [[Noy2005 - Ontology Development 101]]
+[[Rovetto2017 - Ontology-based Knowledge Management for Space Data]]
