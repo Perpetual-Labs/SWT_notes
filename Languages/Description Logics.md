@@ -32,7 +32,7 @@ Roles: represents [[Properties]] and [[Relations]]
  - Attributive Language with Complement (ALC) is one of the most basic DLs
  - ALC contains basic operators (see table below)
  - e.g. [[OWL]] = SHOIN(D)
- - e.g. [[OWL2]] DL = SHROIQ(D)
+ - e.g. [[OWL2 DL]] = SHROIQ(D)
 
 S: ALC + Transivity of roles
  - if aRb and bRc, then aRc (e.g. isAncestorOf)
@@ -69,18 +69,7 @@ Examples:
 
 
 # OWA vs CWA
-Open-World Assumption
- - Start with an empty DL ontology
- - Constrain the ontology iteratively
- - We cannot entail the negation from the info we have - so assume it is possible
- - i.e OWA assumes incomplete information by default - so under-specification is not a problem.
- - "Absence of information is not negative information"
- - the existence of further individuals is possible
-
-Closed-World Assumption
- - You can't say anything until there is somewhere to say it
- - i.e. anything that cannot be proven to be true, is false
- - the knowledge base contains all individuals
+See [[OWA, CWA]]
 
 # 'No Unique Name'
 The 'No Unique Name' assumption means that PersonA in one statement may be PersonB in another

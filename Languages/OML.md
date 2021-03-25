@@ -12,14 +12,19 @@ Part of [[CAESAR]], led by [[Maged Elaasar]]
  - This means you can do your modelling like programming	
 
 ## OWL Relationship:
- - Designed after [[OWL]] (specifically [[OWL2]])
+ - Designed after [[OWL]] (specifically [[OWL2 DL]])
  - Consider as profile
  - OML is a thin vocbaulary extension to OWL2 to support SE models
  - OWL maps to SysML, therefore so does OML
  - Think of OML as a methodology of using OWL
  - An OML Module maps to an OWL2-DL Ontology with SWRL rules both structurally and semantically.
- - An [[OWL 2 DL Details|OWL 2 DL]] Ontology provides classes, properties, individuals and data values that are represented in Semantic Web documents.
+ - An [[OWL2 DL]] Ontology provides classes, properties, individuals and data values that are represented in Semantic Web documents.
  - These constructs form the basis of the OWL2-DL+[[SWRL]] mapping of an OML Module whose corresponding constructs include OML Entity, OML EntityRelationship, OML Datatype, OML DataProperty and OML TerminologyInstanceAssertion.
+
+## From [[Steven Jenkins]]
+ - OML captures ~24 [[OWL]] patterns, specifically highly mapped to [[OWL2 DL]]
+ - e.g. [[OWL]] struggles to handle reification with [[RDF]] triples.
+
 
 ## Bundles:
  - OML bundle maps corresponds to modeling language metamodel
@@ -35,7 +40,6 @@ Part of [[CAESAR]], led by [[Maged Elaasar]]
  - [[Maged Elaasar]] recommended that this would be a good place for us to work.
 
 
-Specific rules at [[OML - Rules]]
 
 
 References:

@@ -6,7 +6,7 @@ CAESAR - Computer-Aided Engineering for System Architecture
  - Auto-generation of reports using a varierty of tools (e.g. Tableau, Tom Sawyer)
  - [[OpenCAESAR]] is open to the public
 
-Languages involved:
+Languages, tools involved:
  - Represents information as a set of ontologies in [[OML]] - available through [[GitHub]] ((https://opencaesar.github.io/))
  - [[OWL]]
  - [[RDF]]

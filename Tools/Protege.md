@@ -1,5 +1,4 @@
 # Protégé
-
 Open-source tool that allows developers to create and manage terminologies and [[Ontology|ontologies]]
 
 This editor supports: SHOIN(D)
@@ -13,15 +12,22 @@ e.g:
 
 
 ## Visualisation
-
  - OWLViz (Protege Default)
  - VOWL
  - OntoGraf (looks better than VOWL and OWLViz)
 
 
+## Plugins
+Uses OSGI - based on [[Java]]
+
+
+## WebProtege
+Possible to use WebProtege for collaboration
+But feedback from [[OntoCommons]] Workshop was that Protege + [[GitHub]] is the best solution
+
 
 ## Alternative tools:
-[[PoolParty]], [[Synapta]], [[Readi]]
+[[PoolParty]], [[Synapta]], [[Readi]], [[Mobi]], [[Metaphacts]]
 
 
 References:

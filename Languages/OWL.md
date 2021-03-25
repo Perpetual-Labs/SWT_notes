@@ -24,7 +24,7 @@
 
 
 ## Dialects
- - Multiple dialects available (e.g. [[OWL2]], OWL Lite) - see [[Blog2020 - Introduction to the Semantic Web]] for further info
+ - Multiple dialects available (e.g. [[OWL2 DL]], OWL Lite) - see [[Blog2020 - Introduction to the Semantic Web]] for further info
  - OWL Lite (subsetOf) OWL DL (subsetOf) OWL Full
 
 ## Similar Languages
@@ -35,6 +35,11 @@
 ## UML to OWL and SROIQ
 Mapping, translation information provided in:
 [[Harmse - UML Class Diagram to OWL and SROIQ Reference]]
+
+
+## Axioms and Assertions
+TBox can still contain Instances in some cases:
+ - e.g. SI Units, 'Watt' can be a named individual in the TBox
 
 
 ## Examples:

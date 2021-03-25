@@ -2,7 +2,7 @@ Natural Language Processing
 
 Work of [[Audrey Berquand]], [[Annalisa Riccardi]].
 
-[[Audrey Berquand]] considered using NLP to create an [[ontology]].
+[[Audrey Berquand]] considered using NLP to create an [[Ontology]].
 
 But found it is better to use NLP to populate an already existing ontology.
 

@@ -53,7 +53,7 @@ OntoCommons is closely related to the IOF Systems Engineering WG - same personne
 
 ## Languages
  - BFO and IOF, must be in English and [[OWL]], [[FOL]]
- - IOF and OntoCommons will both be compatible with [[OWL2]] DL (ISO, [[W3C]] standard)
+ - IOF and OntoCommons will both be compatible with [[OWL2 DL]] (ISO, [[W3C]] standard)
  - Will incorporate processes - discrete and continuous
  - but to have actionable processes - ontology cannot do this - need to transfer to e.g. [[SysML 1]]
  - e.g. the term 'optimisation' is not in the ontology, it is defined later in the tool

@@ -9,5 +9,5 @@ https://github.com/mdaquin/OWBO
 -   Basic editing of named classes, properties and standard literals (string, integer, float)
 -   Supports class subsumption and property domains and ranges
 
-Requires .ttl (Turtle) files, ratrher than .owl
+Requires .ttl (Turtle) files, rather than .owl
 Just save as Turtle syntax in [[Protege]], then manually change the extension

@@ -9,6 +9,6 @@ Interested in:
 
 
 Produced [[Semantics|semantic]] layer on top of standards.
-i.e. between ECSS standards and an actual [[ontology]]
+i.e. between ECSS standards and an actual [[Ontology]]
 
 Worked with [[Sam Gerene]] at [[Rhea]]
