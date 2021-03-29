@@ -1,6 +1,7 @@
-Top-Level [[Ontology]]
+## DOLCE
+[[Ontology]]
 
-Similar level to [[BFO]], [[EMMO]]
+It is a [[TLO]] like [[BFO]] and [[EMMO]]
 
  - DOLCE is based on cultural (e.g. natural language and human common sense, social conventions)
  - Therefore, there are lots of variants - only one official one (2002)

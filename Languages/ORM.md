@@ -1,5 +1,9 @@
 # Object-Role Modeling
 
+## Usage
+In use by [[ESA]] within [[OSMOSE]]
+
+
 ## Personnel
 [[Enrico Franconi]]
 
@@ -11,6 +15,15 @@ In comparison to [[OWL]], it is much easier to learn and use, especially for non
 It is very similar to OWL, but for a few small details, e.g:
  - no nominals
  - no transitivity relations
+
+It is similar to [[UML]]
+[[UML]] and ORM have lots of supporting literature
+
+
+## Reasoning
+ORM uses [[OCL]], like [[UML]]
+In [[NORMA]], ORM is translated to [[OWL]] (contained in tool)
+Can translate anything from ORM to [[OWL]]
 
 
 ## Reasoning Example

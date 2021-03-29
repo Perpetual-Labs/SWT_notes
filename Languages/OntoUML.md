@@ -1,4 +1,4 @@
-[[Giancarlo Guizzardo]]
+[[Giancarlo Guizzardi]]
 
 Based on [[UML]]
 

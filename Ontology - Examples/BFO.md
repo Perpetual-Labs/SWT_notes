@@ -1,7 +1,7 @@
 # Basic Formal Ontology:
 developed by [[Barry Smith]]
-Relatively simple ontology
-Similar level to [[DOLCE]], [[EMMO]]
+Relatively simple [[ontology]]
+It is a [[TLO]] like[[DOLCE]] and [[EMMO]]
 
 ![[BFO.jpg]]
 ![[BFO Top Layer.png]]

@@ -59,6 +59,10 @@ Actual ontology models =
 some intended models (but some ommitted) + some unintended models
 Verification of ontologies checks these subsets
 
+Instance verification, example by Gianmaria:
+A component is required to have three interfaces
+If an instance of a component has only two defined, the reasoner will flag this missing interface as an error
+
 
 ## Noy Process
 (see reference)

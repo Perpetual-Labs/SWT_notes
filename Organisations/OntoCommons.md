@@ -2,7 +2,7 @@
  - [[Ontology]]-driven data documentation for industry commons
  - Dedicated to **standardisation** of data documentation across all domains related to materials and manufacturing
  - i.e. Produce ISO Standards
-
+ - Produce the [[OCES]]
 
 ## Relation to [[IOF]]
 OntoCommons is closely related to the IOF Systems Engineering WG - same personnel:
@@ -15,9 +15,9 @@ OntoCommons is closely related to the IOF Systems Engineering WG - same personne
  - [[University of Manchester]] are participating
 
 
-## Top Reference Ontology:
+## [[Top Reference Ontology]]:
  - above the [[BFO]]
- - BFO is not the truth! It's one philosophical vision of a TLO
+ - BFO is not the truth! It's one philosophical vision of a [[TLO]]
  - different philosophical visions of ontologies
  - aims to map between multiple TLOs ([[BFO]], [[DOLCE]], [[EMMO]] etc.)
  - enables alignment between TLOs ([[Semantics|semantic]] and [[Syntax|syntactic]] alignment)
@@ -65,4 +65,5 @@ OntoCommons is closely related to the IOF Systems Engineering WG - same personne
  - [[Dimitris Kiritsis]]
  - [[Jinzhi Lu]]
  - [[Hedi Karray]]
+ - [[Stefano Burgo]]
  
