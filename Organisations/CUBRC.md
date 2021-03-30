@@ -10,3 +10,4 @@ Performs a lot of work on the [[Space Domain Ontologies]]
 
 Personnel:
 [[Barry Smith]]
+[[Ronald Rudnicki]]

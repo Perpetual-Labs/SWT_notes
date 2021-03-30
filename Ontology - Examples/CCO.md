@@ -1,17 +1,39 @@
+# Common Core Ontologies
+
 Created by [[CUBRC]]
 
-The Common Core Ontologies (CCO) comprise eleven ontologies that aim to represent and integrate taxonomies of generic classes and relations across all domains of interest.
+## Summary
+The Common Core Ontologies (CCO) comprise eleven [[Ontology|ontologies]] that aim to represent and integrate taxonomies of generic classes and relations across all domains of interest.
 
-They are mid-level ontologies (MLOs), based on the [[BFO]], that can be used to generate domain-specific ontologies.
+They are mid-level ontologies ([[MLO]]s), based on the [[BFO]], that can be used to generate domain-specific ontologies.
 
+## Logic
 CCOs use Common Logic (basically [[FOL]])
  - OWL Logic is used in the CCO models ([[Description Logics]])
  - They are implemented using [[OWL2 DL]]
 
 Similar structure (hub and spoke) to [[OBO Foundry]]
 
+## Context
 ![[CCO Context.jpg]]
 
+An unknown domain of discourse is equal to all domains of discourse
+(i.e. might need all of them)
+
+Adapted idea from programming languages
+i.e. core and common libraries with third-party extensions
+
+Application ontologies make use of multiple CCOs
+
+![[Import Structure of the CCO.jpg]]
+
+![[Common Core Ontology Ecosystem.jpg]]
+
+This includes application ontologies
+ Open source and available from [[GitHub]]
+
+
+## List of MLOs
 The eleven mid-level ontologies that comprise the Common Core are:
 1. Information Entity Ontology
 2. Agent Ontology

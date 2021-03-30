@@ -8,6 +8,14 @@ It is a [[TLO]] like[[DOLCE]] and [[EMMO]]
 ![[Independent Continuant Examples.png]]
 ![[Occurent Examples.png]]
 
+## Version
+BFO 2020 is latest version of BFO
+More recent than BFO 2.0
+
+## Users
+https://basic-formal-ontology.org/users.html
+
+
 ## BFO Development:
  - This was developed from the [[Gene Ontology]]
  - The top three classes were inherited from GO and generalised

@@ -65,5 +65,5 @@ OntoCommons is closely related to the IOF Systems Engineering WG - same personne
  - [[Dimitris Kiritsis]]
  - [[Jinzhi Lu]]
  - [[Hedi Karray]]
- - [[Stefano Burgo]]
+ - [[Stefano Borgo]]
  

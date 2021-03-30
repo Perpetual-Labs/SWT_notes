@@ -22,12 +22,23 @@ Proposals came from these
 Uses [[BFO]]
 Develops MLOs, Common Core Ontologies [[CCO]]
 
+ ![[Current IOF Architecture.jpg]]
+ 
+  Need ontological patterns and best practices for:
+ granularity levels, and perspectives or viewpoints ("context")
+ Relating models, designs and plans about things that don't exist yet in a realist ontology
+ 
+Not looked at M&S in detail, but yes, it needs to fit in
+Don't know what the use cases will be yet
+ 
+
 ## Working Groups
 [[IOF - SE WG]]
 [[IOF - MT Connect WG]]
 [[IOF - Interoperability WG]]
 No Modelling and Simulation WG yet - but would like to create one
 
+ ![[Current IOF Working Groups.jpg]]
 
 
 ## Problem:
@@ -64,7 +75,7 @@ e.g. the [[Gene Ontology]]
 
 ## Choice of TLO
  - [[NIST]] Evaluated BFO against [[DOLCE]] in 43 dimensions
- - [[BFO]] was chosen
+ - [[BFO]] was chosen in 2019
  - DOLCE is based on cultural (e.g. natural language and human common sense, social conventions)
  - BFO tries to build instead on scientific terminology
  - Therefore, there are lots of variants - only one official one (2002)
