@@ -1,6 +1,6 @@
 Space Domain Ontologies (SDO):
 
-A collection of space-domain-specific ontologies
+A collection of space-domain-specific [[DLO]]s
  - based on [[CCO]]
  - info provided by [[NCOR]]
 
