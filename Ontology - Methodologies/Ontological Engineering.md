@@ -66,7 +66,7 @@ If an instance of a component has only two defined, the reasoner will flag this 
 
 ## Noy Process
 (see reference)
-1. Determin scope
+1. Determine scope
 2. Consider reuse
 3. Enumerate terms
 4. Define classes
@@ -80,6 +80,20 @@ There is no one way to model a domain - there are always viable alternatives
 Basically just an application of of the methodology discussed above
 
 
+## Orellana Process
+1 - Scope the Ontology
+ - Purpose of ontology, who will be using.
+ - Interviews with Subject Matter Experts
+2 Establish a Lexicon
+ - Identify high-frequency terms that will make up the classes and properties
+3 Map to [[TLO]]
+ - e.g. [[BFO]]
+ - Creates the taxonomical hierarchies
+4 Establish [[Axioms]]
+ - Creates the horizontal (axiomatic) relationships
+ - Establish as many as possible to increase power of [[Reasoning]]
+5 Populate with Instances
+ - i.e. Case Study data (e.g. [[LAST]])
 
 
 References:
@@ -87,3 +101,5 @@ References:
 [[Rajpathak2011 - A generic ontology development framework for data integration and decision support in a distributed environment]]
 [[Noy2005 - Ontology Development 101]]
 [[Rovetto2017 - Ontology-based Knowledge Management for Space Data]]
+[[orell]]
+[[Orellana2019 - The Ontology of Systems Engineering. Towards a Computational Digital Engineering Semantic Framework]]

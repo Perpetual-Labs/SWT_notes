@@ -11,6 +11,13 @@ i.e. incestment up front to reduce overall cost
  - proactive rather than reactive
 
 
+### Digital Thread
+Consider in context of the three-axis Digital Thread
+1. Domains and disciplines (SE, Manufacture, Avionics, etc.)
+2. Product Lifecycle (Design, Testing, Operation, Maintenance, etc.)
+3. Supply Chain (OEM, Tier 1, Tier 2, Tier 3)
+
+
 ### Process
 The APQP Process is defined in [[Standard - AS9145]]
 [[Standard - AS9145]] also describes the outputs - [[PPAP]]

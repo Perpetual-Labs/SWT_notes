@@ -21,7 +21,7 @@ e.g. Requirements Model:
  - Use DOORS as Requirements and Database
  - Can use OSLC to connect to other tools 				
 				
-From [[Meeting - 201210]]:
+From Meeting - 201210:
  - OSLC uses syntactic vocabularies (in RDF)
  - not done in semantic way (i.e. not OWL)
  - So no inferencing - just linked data format

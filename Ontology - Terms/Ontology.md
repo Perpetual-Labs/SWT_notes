@@ -1,17 +1,17 @@
 # Overview
->People cannot share knowledge if they do not speak a common lenguage"
+>People cannot share knowledge if they do not speak a common language"
 \- Thomas Davenport 1997	
 
 >An ontology is a formal, explicit specification of a shared conceptualization"
 \- Tom Gruber 1992
 
-Ontology: a knowledge model that defines allowable concepts and releationships within a domain
+Ontology: a knowledge model that defines allowable concepts and relationships within a domain
 
 Metamodel: An explicit description of how a domain-specific model (following the rules of the ontology) can be built
 
 "A valid metamodel is an ontology, but not all ontologies are modelled explicitly as metamodels"
 
-To speak a common lenguage means:
+To speak a common language means:
 - common symbols and concepts (syntax)
 - agreement aobut their meaning (semantics)
 - Classification of concepts (taxonomy)

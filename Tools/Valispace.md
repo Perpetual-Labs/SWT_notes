@@ -87,4 +87,3 @@ Things it can't do:
 
 
 Reference: Valispace Tutorials (only two available currently)
-Reference: [[Meeting - 201221]]
