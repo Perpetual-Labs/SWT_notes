@@ -27,7 +27,7 @@ e.g. 'Jaguar' - several different meanings - search engine does not know which m
 					
 Problem 2:	Information extraction				
  - e.g. how does a computer extract info from text, or a picture?				
-	can only be solves corectly by a human
+	can only be solves correctly by a human
  - software agent does not have sufficient knowledge of context to solve the problem
  - Humans can derive new information implicitly from old information via logical deduction
  - For a computer, information must be defined explicitly to derive knowledge				

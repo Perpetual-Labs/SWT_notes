@@ -1,4 +1,5 @@
 # Definitions
+
 Definition 1:
  - The concept of attaching machine understandable metadata to all information published on the internet, so that intelligent agents can consume, combine and process information in an automated fashion.
 Definition 2:

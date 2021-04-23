@@ -13,7 +13,7 @@ Second-gen: Everything changed with www - 1990s
 	1. Open browser			
 	2. load document			
 	3. click on next hyperlink			
-	Initially text-based browser using keyborad - evolved to mouse and GUI			
+	Initially text-based browser using keyboard - evolved to mouse and GUI			
 				
 Web 2.0 Information consumption -> Information production -> Interactive participation				
 	business use of web			

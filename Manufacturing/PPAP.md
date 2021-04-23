@@ -44,10 +44,6 @@ Production Process Run
 
 
 
-
-
-
-
 References:
 [[Youtube2016 - APQP-Advanced Product Quality Planning]]
 [[Youtube2017 - AS9145-Shaping the future of New Product Introduction with Aerospace & Defence]]
