@@ -7,7 +7,7 @@ and manage changes to existing products and processes
 originally in automotive
 now in aerospace, nuclear, etc.
 
-i.e. incestment up front to reduce overall cost
+i.e. investment up front to reduce overall cost
  - proactive rather than reactive
 
 
@@ -61,7 +61,7 @@ Structures planning for effective NPI into five phases:
 ### Detailed Phases
 1. Planning
 
-Output: The product concept is finalised and a pre-design in available
+Output: The product concept is finalised and a pre-design is available
 
  [[PPAP]]: 10 (through all five phases)
 

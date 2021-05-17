@@ -1,5 +1,7 @@
 SOO: One of the five [[Space Domain Ontologies]]
 
+Conforms to [[BFO]]
+
 Spacecraft subsystems included
 Relevant objectes, etc. defined
 
