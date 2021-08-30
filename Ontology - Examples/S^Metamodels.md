@@ -1,3 +1,5 @@
+Developed by [[INCOSE MBSE Patterns WG]]
+
 S* Metamodel: provides an underlying framework that defines the semantic meaning of models conforming to it. Includes key systems concepts.
 
 S* Pattern: configurable, reusable S^Models. May be an architectural framework. Can be used to rapidly generate S^Models for a given enterprise, product family, or other domain.

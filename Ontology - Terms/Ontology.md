@@ -1,4 +1,6 @@
-# Overview
+## Ontology
+
+### Overview
 >People cannot share knowledge if they do not speak a common language"
 \- Thomas Davenport 1997	
 
@@ -18,7 +20,7 @@ To speak a common language means:
 - Association and relations of concepts (Thesauri)
 - Rules about which relations are allowed to make sense (Ontologies)
 
-## Definition
+### Definition
 Controlled vocabulary (collection of terms)
 - Ontology supports automated reasoning and inference of the data using logical rules
 - Provides knowledge sharing and re-using among people and software agents
@@ -36,7 +38,7 @@ Controlled vocabulary (collection of terms)
 Note: Very few real-world examples of successful use of ontologies in engineering
 
 
-## Levels
+### Levels
  - Level 1 - Triples (e.g. [[RDF]])
  - Level 2 - Ontology language (e.g. [[OWL]], [[RDFS]])
  - Level 2b - Ontology modelling languages (e.g. [[ORM]], [[OML]])
@@ -58,7 +60,7 @@ Ontology Levels:
    Specialised ontology focussed on a specific task and domain
  - Instance-level [[Knowledge Base]]: e.g. Biomass Spacecraft
 
-## What is Ontology For?
+### What is Ontology For?
  - to promote interoperability across heterogenous data systems
  - it does this by exploiting relative stability of natural language
  - HW and SW terms evolve rapidly
@@ -71,26 +73,26 @@ Ontology Levels:
  - Semantic repositories use ontologies as semantic schemata
  - This allows the data to be machine-processable, and therefore inferencing of facts which aren't directly stated (i.e. by [[Reasoning]])
 
-## Current Problems:
+### Current Problems:
  - Ontologies often fail
  - Too many, built independently, poor interoperability
  - Short half-life, poor documentation and training
  - Lack of commonly accepted standards
  - e.g. [[Linked Open Data (LOD)]] is an example of how bad it can get
 
-## Applications
+### Applications
 [[OBO Foundry]] generates biomedical ontologies (very successfully).
 The [[IOF]] is used to generate ontologies for industry.
 [[CCO]] is a collection of mid-level ontologies.
 All of these are based on the [[BFO]].
 
-## Key Definitions
+### Key Definitions
 - Formal = Machine readable
 - Explicit specification = Meaning of all concepts must be defined. Entities, properties, relations, functions, constraints, axioms are explicitly defined
 - shared =  consensual knowledge
 - Conceptualization = Abstract model and simplified view of some phenomenon in the world that we want to present
 
-## Ontology Types
+### Ontology Types
 Ontologies can be distinguished according to the sort of semantics being modelled and their intended usage:
 Schema-ontologies:
  - Close in purpose and nature to database and object-oriented schemata
@@ -114,7 +116,7 @@ Light-weight (informal) ontologies:
   - e.g. [[Description Logics]], [[First Order Logic]]
 
 
-## Implementation Issues
+### Implementation Issues
  - Equivalence Mapping:
  - Some implementation issues can't be solved by [[OWL2 DL]] when combining multiple datasets
  - e.g. one model has 'FullName'
@@ -128,7 +130,7 @@ Light-weight (informal) ontologies:
  - i.e. there is no 'direction' between the categories
 
 
-## Ontology History
+### Ontology History
 Ontology Timeline
 -	1: 1970s: Strong AI, Robotics, PSL
 	-	1970: robotics, Naive Physics, First Order Logic
@@ -168,7 +170,7 @@ Ontology Timeline
 -	4: 2005: The age of ontology suite.
 
 
-## Ontology Rules
+### Ontology Rules
 [[Ontology Rules|Rules]] also provided
 
 
